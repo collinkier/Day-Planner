@@ -1,0 +1,141 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+
+.container1{
+    background-color: grey;
+    width: 100%;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.container2{
+  background-color: red;
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.container3{
+  background-color: green;
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+}
+.container4{
+  background-color: grey;
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+}
+.container5{
+  background-color: red;
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+}
+.container6{
+  background-color: green;
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+}
+.container7{
+  background-color: grey;
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.container8{
+  background-color: red;
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.col-lg-2{
+  border-style: solid;
+  border-width: 2px;
+  background-color: lightgrey;
+}
+
+.col-lg-8{
+  background-color: lightgreen;
+}
+.row{
+  /* border-style: solid;
+  border-color: black;
+  /* border-bottom-width: 2px;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-left-width: 0px; */ */
+}
